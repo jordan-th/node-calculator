@@ -1,0 +1,21 @@
+{
+  "en" : {
+    "greet" : "Welcome to Calculator!",
+    "q1" : "What's the first number?",
+    "q2" : "What's the second number?",
+    "error" : "Invalid entry. Try again:",
+    "q3" : "What operation would you like to perform?\n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "error1" : "Invalid entry. Must enter 1, 2, 3, or 4:",
+    "repeat" : "Would you like make another calculation? yes/no"
+  },
+  "es" : {
+    "greet" : "Bienvenidos a la calculadora!",
+    "q1" : "Esconde su primero numero",
+    "q2" : "Esconde su secundo numero",
+    "error" : "Encontré un error. Entra un numero",
+    "q3" : "¿Qual operación?\n1) Adición 2) Subtración 3) Multiplicación 4) División",
+    "error1" : "Encontré un error. Entra 1, 2, 3, o 4:",
+    "repeat" : "Otra vez? yes/no"
+  }
+
+}
